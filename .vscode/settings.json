@@ -1,0 +1,53 @@
+{
+  "editor.formatOnSave": true,
+  "editor.cursorStyle": "line",
+  "editor.fontFamily": "FiraCode-Retina, SF Mono, Menlo, Monaco, Courier New, monospace",
+  "editor.fontSize": 15,
+  "editor.fontWeight": "500",
+  "editor.lineHeight": 22,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.lineHeight": 1.23,
+  "editor.fontLigatures": true,
+  "editor.detectIndentation": true,
+  "editor.renderIndentGuides": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.glyphMargin": false,
+  "editor.renderWhitespace": "selection",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.minimap.enabled": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "breadcrumbs.enabled": false,
+
+  "editor.minimap.renderCharacters": false,
+  "editor.overviewRulerBorder": false,
+  "workbench.editor.tabCloseButton": "left",
+  "workbench.editor.showIcons": false,
+  "window.nativeTabs": true,
+
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.limit.value": 7,
+
+  "explorer.sortOrder": "type",
+  "explorer.openEditors.visible": 0,
+
+  "workbench.colorTheme": "Red",
+  "workbench.activityBar.visible": false,
+  "workbench.editor.highlightModifiedTabs": false,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#54AFDC"
+
+    // "editor.background": "#22232f",
+    // "editorGutter.background": "#22232f",
+    // "editorLineNumber.foreground": "#9B9C96",
+    // "editorGutter.modifiedBackground": "#9B9C96",
+
+    // "statusBar.background": "#20212d",
+    // "sideBar.background": "#20212d",
+    // "list.hoverBackground": "#22232f"
+  }
+}
