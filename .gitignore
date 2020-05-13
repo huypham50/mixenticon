@@ -23,4 +23,5 @@ erl_crash.dump
 mixenticon-*.tar
 
 .elixir_ls
+.vscode
 

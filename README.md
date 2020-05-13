@@ -1,21 +1,8 @@
 # Mixenticon
 
-**TODO: Add description**
+**Procedure: Generate random profile image/thumbnail based on username/some unique strings**
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `mixenticon` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:mixenticon, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/mixenticon](https://hexdocs.pm/mixenticon).
-
+1. Convert unique string to MD5 hash
+2. List numbers from hash and pick color
+3. Build grids based on 2
+4. Convert grid to image and save
